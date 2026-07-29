@@ -1,0 +1,4 @@
+1 ICON "solppe-app.ico"
+1 24 "app.manifest"
+301 RCDATA "../build/payload/DBC_Converter_Core.exe"
+302 RCDATA "../build/payload/duckdb.dll"

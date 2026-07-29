@@ -1,0 +1,12 @@
+build/
+dist/
+exemplo/
+*.exe
+*.dll
+*.o
+*.zip
+dbc_converter-linux-x86_64
+/build-linux.sh
+/CMakeLists.txt
+.vs/
+.vscode/
