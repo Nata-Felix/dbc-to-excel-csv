@@ -8,6 +8,12 @@
   Conversor gratuito para transformar arquivos DBC do DATASUS em Excel, CSV, Parquet, DBF ou JSONL no Windows.
 </p>
 
+## Interface
+
+<p align="center">
+  <img src="assets/interface-principal.png" alt="Interface do DBC to Excel/CSV com identidade SOLPPE" width="743">
+</p>
+
 ## Download
 
 Baixe somente o arquivo **`DBC-to-Excel-CSV.exe`** na
